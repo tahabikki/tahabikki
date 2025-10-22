@@ -81,11 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/TahaBikki/TahaBikki/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
   <b>⭐ “Innovation begins where curiosity meets persistence.” ⭐</b>
 </p>
