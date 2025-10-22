@@ -13,8 +13,8 @@
 ### 🌟 About Me
 
 🎓 I’m **Taha Bikki**, a Master's student in **Computer Science and Technology**, passionate about **AI**, **biomedical engineering**, and **EEG-based brain research**.  
-🧠 I work on **deep learning**, **signal processing**, and **transformer models** to analyze and interpret brain activity.  
-🚀 My projects merge **healthcare**, **machine learning**, and **neuroscience** to design the next generation of intelligent biomedical systems.  
+🧠 I specialize in **deep learning**, **signal processing**, and **transformer models** for neural and biomedical data.  
+🚀 My research combines **machine learning**, **healthcare**, and **neuroscience** to develop next-generation intelligent systems.  
 🌍 Based in **Hangzhou, China 🇨🇳**, originally from **Morocco 🇲🇦**.  
 ☕ *Curiosity, persistence, and coffee — that’s the perfect loop.*
 
@@ -22,16 +22,44 @@
 
 ### 🚀 Tech Stack & Tools
 
+#### 🤖 **AI / Machine Learning / Deep Learning**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,numpy,pandas,matplotlib,seaborn,fastapi,sql,sqlite,postgresql,mongodb,nodejs,react,nextjs,vue,html,css,bootstrap,wordpress,docker,kubernetes,git,github,linux,vscode,pycharm,anaconda,figma,xd,ai,ps" /><br><br>
-  
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,sklearn,huggingface" />
   <img src="https://img.shields.io/badge/MNE-EEG%20Analysis-blue?style=for-the-badge&logo=brain&logoColor=white" />
   <img src="https://img.shields.io/badge/MNE--BIDS-Neuroimaging%20Data%20Pipeline-%23FF007F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins%20%7C%20Docker%20%7C%20Kubernetes-blueviolet?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-%23FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-#### 🧠 Core Expertise
+#### 📊 **Data Science & Visualization**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?style=for-the-badge" />
+</p>
+
+#### 🌐 **Web Development & API**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,vue,html,css,bootstrap,wordpress" />
+</p>
+
+#### 🛠️ **DevOps / MLOps / Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,linux,vscode,pycharm,anaconda" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins%20%7C%20Docker%20%7C%20Kubernetes-blueviolet?style=for-the-badge&logo=docker" />
+</p>
+
+#### 💾 **Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mongodb" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Management-green?style=for-the-badge" />
+</p>
+
+#### 🎨 **Design & Creativity**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps" />
+</p>
+
+---
+
+### 🧠 Core Expertise
 - **Machine Learning:** Scikit-learn, XGBoost, LightGBM, CatBoost  
 - **Deep Learning:** PyTorch, TensorFlow, Keras, Transformers  
 - **EEG & Neuroimaging:** MNE, MNE-BIDS, ICA, Brain Age Prediction  
@@ -46,7 +74,7 @@
 
 ### 🧩 Highlighted Projects
 
-- 💤 **Sleep Stage Classification using EEG** — Deep learning pipeline for identifying sleep patterns  
+- 💤 **Sleep Stage Classification using EEG** — Deep learning pipeline for identifying sleep stages  
 - 🧓 **Brain Age Prediction Model** — EEG-based estimator for detecting early cognitive decline  
 - ⚽ **Football Analysis with YOLO** — Object detection and tracking for tactical insights  
 - 🧬 **Emotional Stress Detection** — Machine learning analysis of physiological signals  
@@ -69,7 +97,7 @@
   <img src="https://raw.githubusercontent.com/TahaBikki/TahaBikki/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-*(If it doesn’t appear, make sure to enable the GitHub Action that generates it — I can guide you.)*
+*(If it doesn’t appear, I can give you the `.yml` GitHub Action to activate it.)*
 
 ---
 
@@ -88,9 +116,9 @@
 ### 🎵 Fun Facts
 - 🧩 I love transforming brain signals into intelligent AI insights  
 - ⚙️ Building end-to-end ML pipelines is my happy place  
-- 🎨 I enjoy designing smooth, minimal UI/UX for AI dashboards  
-- ☕ Coffee + curiosity = best debugging combo  
-- 🌌 Dream: Build AI that understands the human brain  
+- 🎨 I enjoy designing clean, modern UI/UX for AI dashboards  
+- ☕ Coffee + curiosity = my perfect debugging combo  
+- 🌌 Dream: Build AI that truly understands the human brain  
 
 ---
 
